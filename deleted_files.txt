@@ -2,6 +2,7 @@ If you want to use files such as
 eglew.h
 wglew.h
 glfw3native.h
+glfw3_mt.lib
 
 etc
 
