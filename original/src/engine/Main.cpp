@@ -52,15 +52,9 @@ int main(void)
 	/* Make the window's context current */
 	glfwMakeContextCurrent(window);
 
-	//std::string vyon;
-	//std::cout << "would you like vsync?\n";
-	//std::cin >> vyon;
+	FileLogging::writeToTextFile("GLFW: Setting glfwSpawInterval to 1 (vsync)\n");
+	glfwSwapInterval(1); //vsync
 
-	//if (vyon == "yes")
-	//{
-		FileLogging::writeToTextFile("GLFW: Setting glfwSpawInterval to 1 (vsync)\n");
-		glfwSwapInterval(1); //vsync
-	//}
 	if (glewInit() != GLEW_OK) {
 		std::cout << "GLEW is not OK\n";
 		FileLogging::writeToTextFile("GLEW: ERROR, GLEW IS NOT OK!\n");
