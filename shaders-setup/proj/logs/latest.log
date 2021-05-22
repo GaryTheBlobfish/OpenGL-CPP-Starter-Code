@@ -1,0 +1,29 @@
+LOGGING STARTED AT: 22-05-2021 17:40:05
+
+22-05-2021 17:40:05 :                GLFW: Initialised GLFW library
+22-05-2021 17:40:05 :                GLFW: Setting version to 3.3 core
+22-05-2021 17:40:05 :                GLFW: GLFW window created: 
+22-05-2021 17:40:05 :                GLFW: Setting glfwSpawInterval to 1 (vsync)
+22-05-2021 17:40:05 :                Game: Initialising vertex positions
+22-05-2021 17:40:05 :                Game: Initialising vertex indices
+22-05-2021 17:40:05 :                GL: Successfully created VAO
+22-05-2021 17:40:05 :                GL: Successfully binded vertex buffers for first time
+22-05-2021 17:40:05 :                GL: Successfully binded index buffers for first time
+22-05-2021 17:40:05 :                Game: Parsing shader    File: res/shaders/Basic.shader
+22-05-2021 17:40:05 :                SHADER PARSING:    #shader found, verifying type
+22-05-2021 17:40:05 :                SHADER PARSING:    Shader type: Vertex shader
+22-05-2021 17:40:05 :                SHADER PARSING:    #shader found, verifying type
+22-05-2021 17:40:05 :                SHADER PARSING:    #shader found, verifying type
+22-05-2021 17:40:05 :                SHADER PARSING:    Shader type: Fragment shader
+22-05-2021 17:40:05 :                GL: Shaders created successfully
+22-05-2021 17:40:05 :                GL: Successfully binded shaders
+22-05-2021 17:40:05 :                GL: Accessed uniform variable u_Color
+22-05-2021 17:40:05 :                GL: Successfully unbound VAO
+22-05-2021 17:40:05 :                GL: Successfully unbound shader
+22-05-2021 17:40:05 :                GL: Successfully unbound array buffer
+22-05-2021 17:40:05 :                GL: Successfully unbound element array buffer
+22-05-2021 17:40:05 :                Game: Entering main game loop
+22-05-2021 17:40:15 :                GL: Shader program deleted
+22-05-2021 17:40:16 :                GL: GLFW window terminated
+22-05-2021 17:40:16 :                Game: Average FPS this play time: 60.988818
+22-05-2021 17:40:16 :                Terminating program
