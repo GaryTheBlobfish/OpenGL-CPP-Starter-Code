@@ -1,0 +1,8 @@
+If you want to use files such as
+eglew.h
+wglew.h
+glfw3native.h
+
+etc
+
+then make an issue on this repository and I will give you the files
