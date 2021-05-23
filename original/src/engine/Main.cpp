@@ -1,9 +1,5 @@
 /**************** C++ ****************/
 #include <iostream>
-#include <fstream>
-#include <string>
-#include <sstream>
-#include <chrono>
 
 /**************** OpenGL ****************/
 #include <GL/glew.h>
