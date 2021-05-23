@@ -1,0 +1,12 @@
+# src
+*.h
+
+# Libraries
+*.lib
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.dylib
+
+# Executables
+*.exe
