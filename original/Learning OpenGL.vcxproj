@@ -154,7 +154,7 @@
     <ClCompile Include="src\engine\utils\Logging.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="res\shaders\Basic.shader" />
+    <None Include="res\shaders\Basic.glsl" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\engine\code_assets\Quad.h" />
