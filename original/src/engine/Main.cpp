@@ -100,8 +100,8 @@ int main(void)
 	FileLogging::writeToTextFile("GL: Successfully binded index buffers for first time\n");
 	GLCall(glBufferData(GL_ELEMENT_ARRAY_BUFFER, tri_indexb_size * sizeof(unsigned int), indices, GL_STATIC_DRAW));
 
-	FileLogging::writeToTextFile("Game: Parsing shader	File: res/shaders/Basic.shader\n");
-	shaderProgram::ShaderProgramSrc src = shaderProgram::parseShader("res/shaders/Basic.shader");
+	FileLogging::writeToTextFile("Game: Parsing shader	File: res/shaders/Basic.glsl\n");
+	shaderProgram::ShaderProgramSrc src = shaderProgram::parseShader("res/shaders/Basic.glsl");
 	/*std::cout << "VERTEX\n" << src.VertexSource << "\n";
 	std::cout << "FRAGMENT\n" << src.FragmentSource << "\n";*/
 
