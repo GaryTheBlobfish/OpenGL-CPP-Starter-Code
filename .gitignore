@@ -1,6 +1,2 @@
-# Prerequisites
-*.h
-*.html
-
-# Libraries
-*.lib
+original/Dependencies/GLEW/include/GL/*.h
+original/Dependencies/GLFW/include/GLFW/*.h
