@@ -1,0 +1,25 @@
+LOGGING STARTED AT: 29-05-2021  16:48:44
+
+[29-05-2021 16:48:44] :				GLFW: Initialised GLFW library
+[29-05-2021 16:48:44] :				GLFW: Setting version to 3.3 core
+[29-05-2021 16:48:45] :				GLFW: GLFW window created
+[29-05-2021 16:48:45] :				GLFW: Setting glfwSpawInterval to 1 (vsync)
+[29-05-2021 16:48:45] :				Game: Initialising vertex positions
+[29-05-2021 16:48:45] :				Game: Initialising vertex indices
+[29-05-2021 16:48:45] :				GL: Successfully created VAO
+[29-05-2021 16:48:45] :				GL: Successfully bound vertex buffers
+[29-05-2021 16:48:45] :				GL: Successfully binded index buffers
+[29-05-2021 16:48:45] :				SHADER PARSING:	#shader found, verifying type
+[29-05-2021 16:48:45] :				SHADER PARSING:	Shader type: Vertex shader
+[29-05-2021 16:48:45] :				SHADER PARSING:	#shader found, verifying type
+[29-05-2021 16:48:45] :				SHADER PARSING:	#shader found, verifying type
+[29-05-2021 16:48:45] :				SHADER PARSING:	Shader type: Fragment shader
+[29-05-2021 16:48:45] :				Game: Parsed shader res/shaders/Basic.shadersuccessfully
+[29-05-2021 16:48:45] :				GL: Shaders created successfully
+[29-05-2021 16:48:45] :				GL: Successfully binded shader(s)
+[29-05-2021 16:48:45] :				GL: Successfully created shader program
+[29-05-2021 16:48:51] :				GL: Successfully retrieved the location of the uniform variable u_Color, (location: 0) for the first time, it is now stored in cache
+[29-05-2021 16:48:51] :				GL: Successfully unbound VAO
+[29-05-2021 16:48:51] :				GL: Successfully unbound VBO
+[29-05-2021 16:48:51] :				GL: Successfully unbound IBO
+[29-05-2021 16:48:51] :				Game: Entering main game loop
