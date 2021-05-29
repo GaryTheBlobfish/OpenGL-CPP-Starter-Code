@@ -238,8 +238,3 @@ shaderProgram::ShaderProgramSrc shaderProgram::parseShader(const std::string& fi
 	}
 	return { ss[0].str(), ss[1].str() };
 }
-
-//void shaderProgram::setUniforms(unsigned int shader)
-//{
-	
-//}
