@@ -1,0 +1,30 @@
+LOGGING STARTED AT: 29-05-2021  10:55:26
+
+[29-05-2021 10:55:26] :				GLFW: Initialised GLFW library
+[29-05-2021 10:55:26] :				GLFW: Setting version to 3.3 core
+[29-05-2021 10:55:26] :				GLFW: GLFW window created
+[29-05-2021 10:55:26] :				GLFW: Setting glfwSpawInterval to 1 (vsync)
+[29-05-2021 10:55:27] :				Game: Initialising vertex positions
+[29-05-2021 10:55:27] :				Game: Initialising vertex indices
+[29-05-2021 10:55:27] :				GL: Successfully created VAO
+[29-05-2021 10:55:27] :				GL: Successfully binded vertex buffers
+[29-05-2021 10:55:27] :				GL: Successfully binded index buffers
+[29-05-2021 10:55:27] :				Game: Parsing shader	File: res/shaders/Basic.shader
+[29-05-2021 10:55:27] :				SHADER PARSING:	#shader found, verifying type
+[29-05-2021 10:55:27] :				SHADER PARSING:	Shader type: Vertex shader
+[29-05-2021 10:55:27] :				SHADER PARSING:	#shader found, verifying type
+[29-05-2021 10:55:27] :				SHADER PARSING:	#shader found, verifying type
+[29-05-2021 10:55:27] :				SHADER PARSING:	Shader type: Fragment shader
+[29-05-2021 10:55:27] :				Game: Parsed shader res/shaders/Basic.shader successfully
+[29-05-2021 10:55:27] :				GL: Shaders created successfully
+[29-05-2021 10:55:27] :				GL: Successfully binded shader(s)
+[29-05-2021 10:55:27] :				GL: Accessed uniform variable u_Color
+[29-05-2021 10:55:27] :				GL: Successfully unbound VAO
+[29-05-2021 10:55:27] :				GL: Successfully unbound shader program
+[29-05-2021 10:55:27] :				GL: Successfully unbound VBO
+[29-05-2021 10:55:27] :				GL: Successfully unbound IBO
+[29-05-2021 10:55:27] :				Game: Entering main game loop
+[29-05-2021 10:55:36] :				GL: Shader program deleted
+[29-05-2021 10:55:36] :				Game: Average FPS this play time: 54.875691
+[29-05-2021 10:55:36] :				GL: GLFW window terminated
+[29-05-2021 10:55:36] :				Terminating program...
